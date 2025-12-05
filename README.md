@@ -8,34 +8,32 @@ database, and the interface is built using Tkinter. The project aims to make hos
 easier, more organized, and accessible through a clean and interactive application.
 
 
-## project note
-Application Features 
+## Project Note
 
-- Patient Features
-  
-• Login
-• View doctors
-• Book appointments
-• View prescriptions
-• View bill
-• Check payment status
+### Application Features
 
-- Doctor Features
-- 
-• Login
-• View assigned patients
-• Create appointments
-• Write prescriptions
-• View appointment schedule
-• View patient history
+#### 1. Patient Features
+- Login
+- View doctors
+- Book appointments
+- View prescriptions
+- View bill
+- Check payment status
 
-- Staff Features
-  
-• Register patients offline
-• Book appointments for walk-in patients
-• Edit patient information
-• Delete incorrect records
-• View all bills
-• Update payment status
-• Search all hospital records (patients/doctors/bills/appointments)
-• Print or prepare bills
+#### 2. Doctor Features
+- Login
+- View assigned patients
+- Create appointments
+- Write prescriptions
+- View appointment schedule
+- View patient history
+
+#### 3. Staff Features
+- Register patients offline
+- Book appointments for walk-in patients
+- Edit patient information
+- Delete incorrect records
+- View all bills
+- Update payment status
+- Search all hospital records (patients/doctors/bills/appointments)
+- Print or prepare bills
